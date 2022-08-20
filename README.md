@@ -11,8 +11,9 @@
 
 
 
-<img src = "https://github.com/c920720a/MyDataAnalysis_2022/blob/main/title.png?raw=true" width="70%"></ing>
+
 ## [AMEX : American Express - Default Prediction]
+  <img src = "https://github.com/c920720a/MyDataAnalysis_2022/blob/main/title.png?raw=true" width="70%"></ing>
   * 데이터셋 참조 : https://www.kaggle.com/competitions/amex-default-prediction
   * 내용 : 이 대회는 American Express(AMEX) 에서 개최한 대회로 상금과 채용 특전이 있는 기본 예측(default prediction) 대회이다.
   * EDA [진행 중](https://github.com/c920720a/MyDataAnalysis_2022/blob/b48eef0ecfb087393d101a660d9abdfdbae0ac0e/20220819-amex-eda.ipynb)
